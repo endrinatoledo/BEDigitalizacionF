@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "nodeuser",
+    "password": "nodeuser1234",
+    "database": "dbfacturacion",
+    "host": "10.48.13.154",
+    "port": 3306
+  }
+}

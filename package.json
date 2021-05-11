@@ -1,0 +1,57 @@
+{
+  "name": "S-TA-24_back-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enmanuel23x/S-TA-24_back-end.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enmanuel23x/S-TA-24_back-end/issues"
+  },
+  "homepage": "https://github.com/enmanuel23x/S-TA-24_back-end#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "canvas": "^2.6.1",
+    "cli-progress": "^3.8.2",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "email-validator": "^2.0.4",
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "http-status-codes": "^2.1.3",
+    "image-to-pdf": "^1.0.0",
+    "imap": "^0.8.19",
+    "imap-simple": "^5.0.0",
+    "is-image": "^3.0.0",
+    "jdbc": "^0.7.2",
+    "jimp": "^0.16.1",
+    "multer": "^1.4.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.1.0",
+    "node-jt400": "^4.0.1",
+    "nodemailer": "^6.4.13",
+    "path": "^0.12.7",
+    "pdf-img-convert": "^1.0.3",
+    "pdf-lib": "^1.11.1",
+    "sequelize": "^6.3.5",
+    "sequelize-auto": "^0.6.0",
+    "soap": "^0.35.0",
+    "stream": "0.0.2",
+    "tesseract.js": "^2.1.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4",
+    "sequelize-cli": "^6.2.0"
+  }
+}

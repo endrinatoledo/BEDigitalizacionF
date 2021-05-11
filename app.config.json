@@ -1,0 +1,10 @@
+{
+    apps : [
+      {
+        name      : "digitalizacion - BE",
+        script    : "npx",
+        interpreter: "none",
+        args: "npm start"
+      }
+    ]
+  }
